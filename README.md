@@ -1,2 +1,2 @@
 # Minesweeper
-APCS Final Project
+Made in IntelliJ
